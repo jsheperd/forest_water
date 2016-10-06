@@ -14,7 +14,7 @@ Az intercepció modellezésére a gyakorlatban több módszer is elterjedt.
 A legegyszerűbb esetben az intercepciót mint egy szivacsot lehet szemléltetni, amely a telítési állapotig minden csapadékot magába szív, a telítés után pedig már nem köt meg több vizet. A számítások során a csapadékot az intercepció értékével csökkentjük és 0-val maximáljuk. Fejlettebb modellekben az intercepció mértékét a csapadék adott arányában határozzuk meg, így a telítési állapotig lineárisan nő az inercepció értéke, majd onnantól kezdve konstans marad. Az általunk használt modellben egy telítési görbével jellemeztük az intercepció alakulását. A modellhez Dr. Führer Ernő 1994-ben fafajfüggő paramétereket határozott meg gyakorlati mérési eredmények alapján.
 
 
-<img src="https://github.com/jsheperd/forest_water/blob/master/img/merriam.png?raw=true" width="500" height="400" />
+<img src="https://github.com/jsheperd/forest_water/blob/master/img/merriam.png?raw=true"/>
 
 ### Módszer
 
