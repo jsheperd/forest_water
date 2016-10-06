@@ -19,11 +19,11 @@ A legegyszerűbb esetben az intercepciót mint egy szivacsot lehet szemléltetni
 
 ### Elemzések
 
-1. [Szombathely csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/szombathely.ipynb)
-2. [Szeged csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/szeged.ipynb)
-3. [Debrecen csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/debrecen.ipynb)
-4. [Pécs csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/pecs.ipynb)
-5. [Budapest csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/budapest.ipynb)
+1. [Szombathely csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/notebook/szombathely.ipynb)
+2. [Szeged csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/notebook/szeged.ipynb)
+3. [Debrecen csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/notebook/debrecen.ipynb)
+4. [Pécs csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/notebook/pecs.ipynb)
+5. [Budapest csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/notebook/budapest.ipynb)
 
 ### Felhasznált adatok
 
