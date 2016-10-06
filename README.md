@@ -1,6 +1,6 @@
 # Az intercepció hatása a növényzet számára hasznosítható csapadék mértékének alakulására
 
-Az erdei fák számára felvehető csapadék mértékét jelentősen befolyásolja az a vízmennyiség, amit a lombfelület megköt és újra elpárologtat anélkül, hogy az elérhetné a talajfelszínt. Hazai környezetben fenyő esetén a talajfelszínen található vastag száraz tűavar ezt a hatást  még jelentősen fokozza. Hazai fenyveseinkben az élő lomb és a száraz avar együttes hatásaként visszatartott csapadékmennyiség esetenként elérheti az 5-10 mm értéket, ami sok esetben a teljes csapadékesemény 30-50%-át is jelentheti. A fásszárú vegetáció számára az intercepció hatása nem hagyható figyelmen kívül.
+Az erdei fák számára felvehető csapadék mértékét jelentősen befolyásolja az a vízmennyiség, amit a lombfelület megköt és újra elpárologtat anélkül, hogy az elérhetné a talajfelszínt. Hazai környezetben fenyő esetén a talajfelszínen található vastag száraz tűavar ezt a hatást  még jelentősen fokozza. Fenyveseinkben az élő lomb és a száraz avar együttes hatásaként visszatartott csapadékmennyiség esetenként elérheti az 5-10 mm értéket, ami sok esetben a teljes csapadékesemény 30-50%-át is jelentheti. A fásszárú vegetáció számára az intercepció hatása nem hagyható figyelmen kívül.
 
 <img src="https://github.com/jsheperd/forest_water/blob/master/img/csapadek.png?raw=true" width="300" height="300" />
 
