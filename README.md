@@ -15,11 +15,12 @@ A legegyszerűbb esetben az intercepciót mint egy szivacsot lehet szemléltetni
 
 
 <img src="https://github.com/jsheperd/forest_water/blob/master/img/merriam.png?raw=true"/>
+[Részletes leírás](https://github.com/jsheperd/forest_water/blob/master/interception.ipynb)
 
 ### Elemzések
 
 1. [Szombathely csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/szombathely.ipynb)
-2. [Szeged csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/szeged.ipynb)
+2. [Szeged csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/masx0ter/szeged.ipynb)
 3. [Debrecen csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/debrecen.ipynb)
 4. [Pécs csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/pecs.ipynb)
 5. [Budapest csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/budapest.ipynb)
