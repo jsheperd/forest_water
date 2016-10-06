@@ -12,7 +12,7 @@ Az intercepció modellezésére a gyakorlatban több módszer is elterjedt. A le
 
 
 <img src="https://github.com/jsheperd/forest_water/blob/master/img/merriam.png?raw=true"/>
-[Részletes leírás](https://github.com/jsheperd/forest_water/blob/master/interception.ipynb)
+[Részletes leírás](https://github.com/jsheperd/forest_water/blob/master/notebook/interception.ipynb)
 
 ### Elemzések
 
