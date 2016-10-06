@@ -14,6 +14,10 @@ Az intercepció modellezésére a gyakorlatban több módszer is elterjedt. A le
 <img src="https://github.com/jsheperd/forest_water/blob/master/img/merriam.png?raw=true"/>
 [Részletes leírás](https://github.com/jsheperd/forest_water/blob/master/notebook/interception.ipynb)
 
+A vegetációs időszak hosszát most a jellemzően lombos állapot idejére tettük ((5<=d.month) & (d.month<=10)).
+
+A modellekhez három benedvesedési kapacitás mellett számoltuk végig 2mm,3mm,4mm esetére. Ez a három érték egy gyenge, közepes és egy erősebb benedvesedési kapacitású fafajnak megfelelő érték.
+
 ### Elemzések
 
 1. [Szombathely csapadékeloszlása 1901 - 2010 időszakban](https://github.com/jsheperd/forest_water/blob/master/notebook/szombathely.ipynb)
